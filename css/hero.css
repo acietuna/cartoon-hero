@@ -1,0 +1,87 @@
+body{
+	margin: 0;
+	font-family: ;
+	font-size: 20px;
+	line-height: :30px;
+}
+
+header{
+	background-color: orange;
+	text-align:  center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: whitesmoke;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+}
+h1,h2{
+	font-family: 'Raleway', sans-serif;
+}
+
+/* header styles */
+/* write my comments here that will only appear on sublime text and will not 
+appear on the website published simply press command and forward slash */
+
+
+
+header h1{
+	color:  white;
+	font-size:  50px;
+}
+
+header img {
+    border-radius: 300px;
+    width: 400px;
+    border: 20px solid cornflowerblue;
+}
+
+
+main{
+	max-width: 800px;
+margin:0 auto;
+padding:  0 20px;
+
+}
+
+main img{
+	max-width:  100%;
+}
+
+h2{ 
+font-size: 35px;
+color:royalblue; }
+
+a{
+	color:  royalblue;
+}
+a:hover{
+	color:  springgreen;
+}
+
+footer{
+	background-color: #d14635;
+	text-align: center;
+	color: white;
+}
+
+footer a{
+	color: yellow;
+}
+footer a:hover{
+	opacity:  .5;
+	background-color:  transparent;
+}
+
+p.caption{
+	color:  #999999;
+	font-style:  italic;
+	margin-top: 0;
+}
+
